@@ -4,6 +4,10 @@ Welcome to Muon! Muon is my dream for a modal _development environment_. That is
 
 Muon is _not_ just a text editor - it is a modal framework and window manager for development "widgets". Hence the tagline "a modal _development environment_", not "a modal _text editor_". With Muon, you don't need to context switch nearly as often; your text editor, file manager, source control, and terminal emulator are all in one place, and can all be controlled from the keyboard. And of course, plugins can contribute their own new "widgets" to accomplish a variety of tasks.
 
+## The name
+
+A [Muon](https://en.wikipedia.org/wiki/Muon) is an elementary particle with no smaller parts. I named this project Muon to represent the developer's environment as the most fundamental building block of any program. Without a good environment, good programs cannot be created.
+
 ## Modal control
 
 Muon will use a modal control scheme based on [Kakoune](https://kakoune.org/). While this will be an enormous turn-off to Vim and Emacs users, Kakoune's author wrote an [amazing piece](https://kakoune.org/why-kakoune/why-kakoune.html) about the philosophy behind the model. It is a consistent and predictable way of moving around your code. For the reasons listed in that piece, Kakoune will be used as the basis of Muon's control scheme.

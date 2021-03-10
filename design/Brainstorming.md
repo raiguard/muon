@@ -6,7 +6,7 @@ Muon is _not_ just a text editor - it is a modal framework and window manager fo
 
 ## Modal control
 
-Muon will use a modal control scheme based on [Kakoune](https://kakoune.org/). While this will be an enormous turn-off to Vim and Emacs users, Kakoune's control scheme is designed around consistency, and has numerous advantages over Vim and Emacs' control schemes. The Kakoune author wrote an [amazing piece](https://kakoune.org/why-kakoune/why-kakoune.html) on the philosophy behind its control scheme. Investing a few weeks into learning Kakoune's control scheme is definitely worth the effort.
+Muon will use a modal control scheme based on [Kakoune](https://kakoune.org/). While this will be an enormous turn-off to Vim and Emacs users, Kakoune's author wrote an [amazing piece](https://kakoune.org/why-kakoune/why-kakoune.html) about the philosophy behind the model. It is a consistent and predictable way of moving around your code. For the reasons listed in that piece, Kakoune will be used as the basis of Muon's control scheme.
 
 ## Widgets
 
